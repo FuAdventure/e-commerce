@@ -1,14 +1,14 @@
 # E-commerce web application project
 This is a full-stack project that builds a shopping website with Angular for the front end and Spring Boot for the back end.
 
-# Enviroment 
+## Enviroment 
 You should have node, npm, tsc, Angular CLI, mySQL installed.
 
-# Running locally
-step 1: prepare database
+## To run locally
+- step 1: prepare database </br>
 Run sql scripts in the "db-scripts" folder to build tables.
 
-step 2: run spring boot app
+- step 2: run spring boot app </br>
 open a terminal, clone the repository and enter the "backend" folder 
 ```
 ./mvnw package
@@ -16,7 +16,7 @@ java -jar target/*.jar
 ```
 By default the spring boot backend is running at http://localhost:8080/
 
-step 3: run angular app
+- step 3: run angular app </br>
 open a new terminal and enter the "frontend" folder
 ```
 ng serve --open
