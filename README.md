@@ -2,7 +2,7 @@
 This is a full-stack project that builds a shopping website with Angular for the front end and Spring Boot for the back end.
 
 ## Enviroment 
-You should have node, npm, tsc, Angular CLI, mySQL installed.
+You should have Node, npm, tsc, Angular CLI, Java Development Kit (JDK), Maven, MySQL installed.
 
 ## To run locally
 - step 1: prepare database </br>
