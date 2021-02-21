@@ -1,7 +1,14 @@
 # E-commerce web application project
 This is a full-stack project that builds a shopping website with Angular for the front end and Spring Boot for the back end.
 
-## Enviroment 
+## Website features
+- Master/detail view of products
+- Search for products by category or name
+- Pagination support for products
+- Add, update and remove products in the shopping cart (CRUD)
+- Check out forms with content validation
+
+## Development enviroment 
 You should have Node, npm, tsc, Angular CLI, Java Development Kit (JDK), Maven, MySQL installed.
 
 ## To run locally
