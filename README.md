@@ -10,11 +10,11 @@ This is a full-stack project that builds a shopping website with Angular for the
 - User authentication based on OAuth 2.0 protocol 
 
 <p align="center">
-  <img src="README_images/list.png" width="50%" /> 
-  <img src="README_images/search.png" width="50%" />
-  <img src="README_images/cart.png" width="75%" />
-  <img src="README_images/login.png" width="75%" />
-  <img src="README_images/checkout.png" width="75%" />
+  <img src="README_images/list.PNG" width="50%" /> 
+  <img src="README_images/search.PNG" width="50%" />
+  <img src="README_images/cart.PNG" width="75%" />
+  <img src="README_images/login.PNG" width="75%" />
+  <img src="README_images/checkout.PNG" width="75%" />
 </p>
 
 ## Development enviroment 
